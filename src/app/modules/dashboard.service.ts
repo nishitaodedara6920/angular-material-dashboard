@@ -7,6 +7,8 @@ export class DashboardService {
 
   constructor() { }
 
+
+  
   bigChart() {
     return [{
       name: 'Asia',
